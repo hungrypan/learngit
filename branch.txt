@@ -1,7 +1,5 @@
 git branch
 git branch dev
-<<<<<<< HEAD
-git checkout devgit checkout -b dev
-=======
-git checkout devgit branch -d dev
->>>>>>> dev
+git checkout dev
+git branch -d dev
+git checkout -b dev
