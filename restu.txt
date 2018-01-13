@@ -1,1 +1,5 @@
-this is restu
+this is git restu
+
+remote oper
+git remote
+git remote rm origin
