@@ -2,4 +2,4 @@ git branch
 git branch dev
 git checkout dev
 git branch -d dev
-git checkout -b dev
+git checkout -b devgit merge dev
