@@ -2,5 +2,6 @@ git branch
 git branch dev
 git checkout dev
 git branch -d dev
-git checkout -b devgit merge dev
-git merge -no-ff -m m comment dev
+git checkout -b dev
+git merge dev
+git merge --no-ff -m "merge comment" dev
