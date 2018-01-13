@@ -11,4 +11,5 @@ git stash apply
 
 git stash pop
 
-git diff master
+git diff master>patch
+git apply path
