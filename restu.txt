@@ -2,4 +2,5 @@ this is git restu
 
 remote oper
 git remote
+git remote -v
 git remote rm origin
