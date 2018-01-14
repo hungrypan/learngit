@@ -13,3 +13,4 @@ git stash pop
 
 git diff master>patch
 git apply path
+git push
